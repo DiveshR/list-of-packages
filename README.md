@@ -20,4 +20,9 @@ https://github.com/stevebauman/location
 ```
 composer require stevebauman/location
 ```
+5. PHP core functions that throw exceptions instead of returning FALSE on error   
+https://github.com/thecodingmachine/safe
+```
+composer require thecodingmachine/safe
+```
 
