@@ -15,4 +15,9 @@ composer require moneyphp/money
 ```
 composer require rinvex/countries
 ```
+4. Retrieve a user's location by their IP Address   
+https://github.com/stevebauman/location
+```
+composer require stevebauman/location
+```
 
